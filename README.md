@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Passionate about developing modern, efficient and accessible web apps</h3>
 
+- 🔭 Project Showcase: Spendaway [Font-End](https://github.com/Danko2111/Spendaway) | [Back-end](https://github.com/Danko2111/Spendaway-server)
+
 - 💬 Connect with me! [LinkedIn](https://www.linkedin.com/in/daniel-kolesnitski/)
 
 - 📫 How to reach me: **daniel.kolesnitski@gmail.com**
