@@ -4,6 +4,8 @@
 - 🔭 Project Showcase: Spendaway 
 
     [Font-End](https://github.com/Danko2111/Spendaway) | [Back-end](https://github.com/Danko2111/Spendaway-server)
+    
+    Live Site: [https://spendaway.netlify.app](https://spendaway.netlify.app/)
 
 - 💬 Connect with me! [LinkedIn](https://www.linkedin.com/in/daniel-kolesnitski/)
 
