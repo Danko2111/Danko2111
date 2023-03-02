@@ -7,7 +7,7 @@
     
     Live Site: [https://spendaway.netlify.app](https://spendaway.netlify.app/) (Login Credentials - username: admin, password: admin)
     
-- 🔭 Project Showcase: GymLand (in progress) 
+- 🔭 Project Showcase: GymLand Apparel(in progress) 
 
     [Font-End](https://github.com/Danko2111/ecom-site)
     
