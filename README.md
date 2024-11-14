@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **daniel.kolesnitski@gmail.com**
 
-- 📄 Know about my experiences: [My Resume]([https://drive.google.com/file/d/10ziL9yuCFHttWWfC1w1qwkVmXRQcc61A/view?usp=drive_link](https://docs.google.com/document/d/1NwwhHM7b-khfiHgkZei50g6DF7yakj0CHEN1JIlGT7s/edit?usp=drive_link))
+- 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1NwwhHM7b-khfiHgkZei50g6DF7yakj0CHEN1JIlGT7s/edit?usp=drive_link)
 
 - ⚡ Fun fact! **If im not coding you might find me shredding the slopes across BC**
 
